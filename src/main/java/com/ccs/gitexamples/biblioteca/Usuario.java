@@ -4,4 +4,8 @@ public class Usuario {
 
     private String name;
     private String phone;
+
+    public void cadastrar() {
+
+    }
 }
