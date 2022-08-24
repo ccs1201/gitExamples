@@ -7,10 +7,8 @@ public class Usuario {
     private String phone;
 
     public void cadastrar() {
-
     }
 
-    public void excluir(){
-
+    public void excluir() {
     }
 }
