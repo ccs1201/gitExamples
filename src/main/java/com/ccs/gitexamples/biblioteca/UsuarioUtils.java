@@ -4,5 +4,9 @@ public class UsuarioUtils {
 
     private void autenticar() {
 
+        //implementado pelo principal
+        System.out.println("Autenticou");
+
+
     }
 }
