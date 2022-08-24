@@ -6,5 +6,12 @@ public class Livro {
     private String numPagina;
     private String autor;
 
+    public void emprestar() {
+        System.out.println("emprestou");
+    }
+
+    public void devolver() {
+        System.out.println("devolveu");
+    }
 
 }
