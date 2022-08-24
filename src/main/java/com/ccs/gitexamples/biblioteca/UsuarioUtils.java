@@ -2,7 +2,8 @@ package com.ccs.gitexamples.biblioteca;
 
 public class UsuarioUtils {
 
-    private void autenticar() {
+    //Refatorado pelo outro usuario
+    private void login() {
 
         //implementado pelo principal
         System.out.println("Autenticou");
